@@ -43,7 +43,7 @@ Data that needs to be collected: </br>
 - Null: There are no statistical differences between the annual carbon footprint of MechaCar and its competitor's manufactured vehicles.</br>
 - Alternative: There are statistical difference between the annual carbon footprint of MechaCar and its competitor's manufactured vehicles.</br>
 
-###Statistical Test
+### Statistical Test
 Paired T-tests, and multi linear regression with carbon footprint in metric tonnes of carbon dioxide polluants equivalent per year as the dependent variable.
 
 
